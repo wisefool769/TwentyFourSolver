@@ -2,6 +2,8 @@
 
 [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/wisefool769/twentyfoursolver)
 
+24 puzzles are popular now at my friend's work. 
+Given 4 numbers, the goal is to combine them with basic operations (+, -, *, /) to get 24.
 
 Suppose we have $s = (x_1, x_2, x_3, ... x_n)$ with $x_i \in \mathcal{N}$
 
