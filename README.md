@@ -19,4 +19,4 @@ Every possible number expressible with these and the 4 basic operations (subtrac
         
     Return a
     
-Click the pink button above to use the solver.
+Click the pink button above to use the solver. Click demo.ipynb. You can edit the input numbers and click the play button at top.
